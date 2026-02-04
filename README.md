@@ -56,4 +56,4 @@ Builds will be published in `Builds/` and as GitHub Releases once the first play
 
 ## License
 
-TBD.
+TBD..
